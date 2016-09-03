@@ -1,6 +1,6 @@
 /*
-Project Name: Relaxr
-Client: Ralexr
+Project Name: Relaxr Landing
+Client: Relaxr
 Author: Grace Tamoro
 Developer @GA in MEL
 */
@@ -127,7 +127,7 @@ img {
   background-size: cover;
 }
 
-.button.primary {
+.button.primary  {
   background-color: #f9e42e;
   color: #033048;
 }
@@ -150,13 +150,17 @@ img {
   background-color: #f9e42e;
 }
 
-.button.secondary {
+.button.secondary  {
   background-color: #033048;
   color: white;
 }
 
 .footer {
   background-color: #121212;
+}
+
+.footer h1 {
+  color: #f9e42e;
 }
 
 /******************************************
